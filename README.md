@@ -8,7 +8,7 @@
 
 ### A bit about me
 
-I'm finishing an MSc in Data Science at the University of Nottingham (Sept 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory — that's shown up as an internal analytics platform that got adopted in production, and right now, my first deployed machine learning project.
+I'm finishing an MSc in Data Science at the University of Nottingham (Sept 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory - that's shown up as an internal analytics platform that got adopted in production, and right now, my first deployed machine learning project.
 
 I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote first, then India, open globally.
 
@@ -28,17 +28,19 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 
 ### 🚀 Projects I'll actually defend in an interview
 
-**[Turing](https://github.com/Abhinav-Tadi/Turing)** — Internal data analysis platform built during my TechVerse internship, taken from requirements to production adoption in one quarter. Python.
+**[Turing](https://github.com/Abhinav-Tadi/Turing)** - Internal data analysis platform built during my TechVerse internship, taken from requirements to production adoption in one quarter. Python.
 
-**Deployed ML project — in progress.** Building and shipping my first end-to-end ML application + a GenAI/RAG pipeline before graduation. Link goes here the day it's real.
+**[FIFA World Cup 2022 - Interactive Power BI Dashboard](https://github.com/Abhinav-Tadi/FIFA-World-Cup-2022-Dashboard)** - Multi-page Power BI dashboard analysing match trends, team performance, and player stats across 64 matches and 32 teams. DAX, dynamic slicers, drill-through filters. Built as a guided project to practice end-to-end BI workflow.
+
+**Deployed ML project - in progress.** Building and shipping my first end-to-end ML application + a GenAI/RAG pipeline before graduation. Link goes here the day it's real.
 
 ---
 
 ### 🔭 Currently working on
 
-- A deployed machine learning project (replacing the portfolio gap — no ML deployment exists yet, and I'd rather say that than pretend otherwise)
+- A deployed machine learning project (replacing the portfolio gap - no ML deployment exists yet, and I'd rather say that than pretend otherwise)
 - A GenAI / RAG pipeline
-- Cloud fundamentals (AWS/GCP — picking one, certifying, then building on it)
+- Cloud fundamentals (AWS/GCP - picking one, certifying, then building on it)
 - LeetCode, ahead of technical interviews
 
 ---
