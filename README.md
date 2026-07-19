@@ -8,7 +8,7 @@
 
 ### A bit about me
 
-I'm finishing an MSc in Data Science at the University of Nottingham (Sept 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory - that's shown up as an internal analytics platform that got adopted in production, and right now, my first deployed machine learning project.
+I'm finishing an MSc in Data Science at the University of Nottingham (Sept 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory - that's shown up as an internal analytics platform that got adopted in production, and most recently, a real-time fraud-detection API trained on 590K transactions and deployed end-to-end on AWS.
 
 I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote first, then India, open globally.
 
@@ -20,6 +20,11 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC5C43?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -32,15 +37,14 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 
 **[FIFA World Cup 2022 - Interactive Power BI Dashboard](https://github.com/Abhinav-Tadi/FIFA-World-Cup-2022-Dashboard)** - Multi-page Power BI dashboard analysing match trends, team performance, and player stats across 64 matches and 32 teams. DAX, dynamic slicers, drill-through filters. Built as a guided project to practice end-to-end BI workflow.
 
-**Deployed ML project - in progress.** Building and shipping my first end-to-end ML application + a GenAI/RAG pipeline before graduation. Link goes here the day it's real.
+**[E-Commerce Fraud Triage API](https://github.com/Abhinav-Tadi/ecommerce-fraud-triage-api)** - Real-time fraud-triage API trained on 590K IEEE-CIS transactions (XGBoost, 0.8691 PR-AUC, 422 features). Dockerised, deployed end-to-end on AWS Lambda + API Gateway, validated with 36 automated tests. [Live demo](https://ecommerce-fraud-triage-api-f47dpfknvoth67u5b8hcoy.streamlit.app/)
 
 ---
 
 ### 🔭 Currently working on
 
-- A deployed machine learning project (replacing the portfolio gap - no ML deployment exists yet, and I'd rather say that than pretend otherwise)
 - A GenAI / RAG pipeline
-- Cloud fundamentals (AWS/GCP - picking one, certifying, then building on it)
+- AWS AIF-C01 certification
 - LeetCode, ahead of technical interviews
 
 ---
