@@ -35,7 +35,7 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 
 **[E-Commerce Fraud Triage API](https://github.com/Abhinav-Tadi/ecommerce-fraud-triage-api)** - Fraud-triage API trained on 590K IEEE-CIS transactions (XGBoost, 0.8691 PR-AUC vs 0.4393 for logistic regression, 422 features). Dockerised, deployed end-to-end on AWS Lambda + API Gateway, validated with 36 automated tests. [Live demo](https://ecommerce-fraud-triage-api-f47dpfknvoth67u5b8hcoy.streamlit.app/)
 
-**[Turing](https://github.com/Abhinav-Tadi/Turing)** - Internal data-analysis platform built during my TechVerse internship for ~250–500 members, taken from stakeholder requirements through development in a 3-month sprint. Python.
+**[Turing](https://github.com/Abhinav-Tadi/Turing)** - Internal data-analysis platform built during my TechVerse internship, taken from stakeholder requirements through development in a 3-month sprint. Counted ~250–500 unique members across TechVerse's WhatsApp groups. Python, Selenium.
 
 **[FIFA World Cup Dashboard, 1930–2014](https://github.com/Abhinav-Tadi/FIFA-World-Cup-1930-2014-Dashboard)** - One-page Power BI dashboard (5 visuals) on FIFA World Cup history: 20 tournaments and 836 matches. Guided BCA coursework project, built with a teammate.
 
