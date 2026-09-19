@@ -35,7 +35,7 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 
 **[Turing](https://github.com/Abhinav-Tadi/Turing)** - Internal data analysis platform built during my TechVerse internship, taken from requirements to production adoption in one quarter. Python.
 
-**[FIFA World Cup 1930–2014 - Interactive Power BI Dashboard](https://github.com/Abhinav-Tadi/FIFA-World-Cup-1930-2014-Dashboard)** - A one-page Power BI dashboard (5 visuals) on FIFA World Cup history, 1930–2014: 20 tournaments and 836 matches. DAX, dynamic slicers, drill-through filters. Built as a guided project to practice end-to-end BI workflow.
+**[FIFA World Cup 1930–2014 - Interactive Power BI Dashboard](https://github.com/Abhinav-Tadi/FIFA-World-Cup-1930-2014-Dashboard)** - A one-page Power BI dashboard (5 visuals) on FIFA World Cup history, 1930–2014: 20 tournaments and 836 matches. Dynamic slicers, drill-through filters. Built as a guided project to practice end-to-end BI workflow.
 
 **[E-Commerce Fraud Triage API](https://github.com/Abhinav-Tadi/ecommerce-fraud-triage-api)** - Real-time fraud-triage API trained on 590K IEEE-CIS transactions (XGBoost, 0.8691 PR-AUC, 422 features). Dockerised, deployed end-to-end on AWS Lambda + API Gateway, validated with 36 automated tests. [Live demo](https://ecommerce-fraud-triage-api-f47dpfknvoth67u5b8hcoy.streamlit.app/)
 
