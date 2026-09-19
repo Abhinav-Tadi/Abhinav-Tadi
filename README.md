@@ -8,8 +8,7 @@
 
 ### A bit about me
 
-I'm finishing an MSc in Data Science at the University of Nottingham (Sept 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory - that's shown up as an internal analytics platform that got adopted in production, and most recently, a real-time fraud-detection API trained on 590K transactions and deployed end-to-end on AWS.
-
+I'm finishing an MSc in Data Science at the University of Nottingham (Sept 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory - that's shown up as an internal analytics platform I built during an internship, and most recently, a fraud-detection API trained on 590K transactions and deployed end-to-end on AWS.
 I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote first, then India, open globally.
 
 ---
@@ -33,11 +32,11 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 
 ### 🚀 Projects I'll actually defend in an interview
 
-**[Turing](https://github.com/Abhinav-Tadi/Turing)** - Internal data analysis platform built during my TechVerse internship, taken from requirements to production adoption in one quarter. Python.
+**[E-Commerce Fraud Triage API](https://github.com/Abhinav-Tadi/ecommerce-fraud-triage-api)** - Fraud-triage API trained on 590K IEEE-CIS transactions (XGBoost, 0.8691 PR-AUC vs 0.4393 for logistic regression, 422 features). Dockerised, deployed end-to-end on AWS Lambda + API Gateway, validated with 36 automated tests. [Live demo](https://ecommerce-fraud-triage-api-f47dpfknvoth67u5b8hcoy.streamlit.app/)
 
-**[FIFA World Cup 1930–2014 - Interactive Power BI Dashboard](https://github.com/Abhinav-Tadi/FIFA-World-Cup-1930-2014-Dashboard)** - A one-page Power BI dashboard (5 visuals) on FIFA World Cup history, 1930–2014: 20 tournaments and 836 matches. Dynamic slicers, drill-through filters. Built as a guided project to practice end-to-end BI workflow.
+**[Turing](https://github.com/Abhinav-Tadi/Turing)** - Internal data-analysis platform built during my TechVerse internship for ~250–500 members, taken from stakeholder requirements through development in a 3-month sprint. Python.
 
-**[E-Commerce Fraud Triage API](https://github.com/Abhinav-Tadi/ecommerce-fraud-triage-api)** - Real-time fraud-triage API trained on 590K IEEE-CIS transactions (XGBoost, 0.8691 PR-AUC, 422 features). Dockerised, deployed end-to-end on AWS Lambda + API Gateway, validated with 36 automated tests. [Live demo](https://ecommerce-fraud-triage-api-f47dpfknvoth67u5b8hcoy.streamlit.app/)
+**[FIFA World Cup Dashboard, 1930–2014](https://github.com/Abhinav-Tadi/FIFA-World-Cup-1930-2014-Dashboard)** - One-page Power BI dashboard (5 visuals) on FIFA World Cup history: 20 tournaments and 836 matches. Guided BCA coursework project, built with a teammate.
 
 ---
 
@@ -49,20 +48,11 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 
 ---
 
-### 📊 GitHub stats
-
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav-Tadi&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-Tadi&layout=compact&theme=tokyonight&hide_border=true&hide=prolog)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Abhinav-Tadi&theme=tokyonight&hide_border=true)
-
----
-
 ### 📫 Reach me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadi.abhinav2324@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tadi-240833287/)
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abhinav-Tadi&color=2E86AB&style=flat-square" alt="Profile views" />
