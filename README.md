@@ -9,6 +9,7 @@
 ### A bit about me
 
 I'm finishing an MSc in Data Science at the University of Nottingham (Sept 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory - that's shown up as an internal analytics platform I built during an internship, and most recently, a fraud-detection API trained on 590K transactions and deployed end-to-end on AWS.
+
 I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote first, then India, open globally.
 
 ---
@@ -52,8 +53,3 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadi.abhinav2324@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-tadi-240833287/)
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Abhinav-Tadi&color=2E86AB&style=flat-square" alt="Profile views" />
-</p>
