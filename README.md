@@ -44,7 +44,6 @@ I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote f
 ### 🔭 Currently working on
 
 - A GenAI / RAG pipeline
-- AWS AIF-C01 certification
 - LeetCode, ahead of technical interviews
 
 ---
