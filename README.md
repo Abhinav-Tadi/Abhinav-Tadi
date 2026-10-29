@@ -8,7 +8,7 @@
 
 ### A bit about me
 
-I'm finishing an MSc in Data Science at the University of Nottingham (Sept 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory - that's shown up as an internal analytics platform I built during an internship, and most recently, a fraud-detection API trained on 590K transactions and deployed end-to-end on AWS.
+I'm finishing an MSc in Data Science at the University of Nottingham (Dec 2026), after a Bachelor's in Computer Applications. I like building things end-to-end rather than just learning the theory - that's shown up as an internal analytics platform I built during an internship, and most recently, a fraud-detection API trained on 590K transactions and deployed end-to-end on AWS.
 
 I'm looking for entry-level Data Scientist / Junior ML Engineer roles - remote first, then India, open globally.
 
